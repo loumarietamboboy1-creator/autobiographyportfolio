@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Autobiography")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0d5dfa1c0c2b844eeffabe609b5df416fcc64d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Autobiography")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Autobiography")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
